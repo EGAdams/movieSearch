@@ -44,7 +44,7 @@ class MovieRows {
          */ 
         curl_setopt_array($curl, [
             CURLOPT_RETURNTRANSFER => 1,
-            CURLOPT_URL => "http://www.omdbapi.com/?s=" . $search_text . "&r=JSON&apikey=ae2b1c0b",
+            CURLOPT_URL => "http://www.omdbapi.com/?s=" . $search_text . "&r=JSON&apikey=a6291ee5",
             CURLOPT_USERAGENT => 'cURL Movie infromation Request'
         ]);
         

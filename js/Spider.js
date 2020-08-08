@@ -7,12 +7,11 @@
 var Spider = /** @class */ (function () {
     function Spider() {
         this.movieRows = [];
-        this.phpUrl = "http://localhost/movieSearch/spider.php";
         /*
          * constructor
          */
         if (Spider.instance) {
-            console.log("*** ERROR: - use Spider.getInstance");
+            console.log("*** ERROR: - use Spider.getInstance ***");
         }
     }
     Spider.getInstance = function () {
@@ -38,7 +37,7 @@ var Spider = /** @class */ (function () {
                 spider.readResponse(this.responseText);
             }
         };
-        xhttp.open("GET", "http://americansjewelry.com/test/getMovieRows.php?search_text=" + spider.searchText);
+        xhttp.open("GET", "http://americansjewelry.com/movieSearch/getMovieRows.php?search_text=" + spider.searchText);
         xhttp.send();
     };
     Spider.prototype.sendDetailedAjax = function (spider) {
@@ -49,7 +48,7 @@ var Spider = /** @class */ (function () {
             }
         };
         
-        xhttp.open("GET", "http://americansjewelry.com/test/getDetailedMovieInformation.php?search_id=" + spider.searchId);
+        xhttp.open("GET", "http://americansjewelry.com/movieSearch/getDetailedMovieInformation.php?search_id=" + spider.searchId);
         xhttp.send();
     };
     Spider.prototype.readResponse = function (responseText) {

@@ -9,6 +9,7 @@ var MovieRow = /** @class */ (function () {
         this.rowClass = "col-md-4 rowClass";
         this.thisDiv = document.createElement("div");
         this.imdbID = imdbIDArg;
+
         /*
          * movie title div
          */
@@ -16,6 +17,7 @@ var MovieRow = /** @class */ (function () {
         movieTitleDiv.className = this.rowClass;
         movieTitleDiv.innerHTML = this.movieTitle;
         movieTitleDiv.addEventListener("click", function (e) { return spider.drawMovieDetails(_this.imdbID); });
+        
         /*
          * movie year div
          */

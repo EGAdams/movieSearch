@@ -17,7 +17,7 @@ var MovieSearch = /** @class */ (function () {
         var searchForm = document.createElement("form");
         searchForm.className = "well form-search";
         searchForm.id = "search-by-title-form";
-        // searchForm.onsubmit = alert("submitting!");//spider.drawMovieRows;
+        searchForm.onsubmit = function () { return false;};
         var fieldSet = document.createElement("fieldset");
         var legend = document.createElement("legend");
         legend.innerHTML = "Search By Movie Title";
@@ -43,6 +43,13 @@ var MovieSearch = /** @class */ (function () {
         inputText.id = "t";
         inputText.name = "t";
         inputText.className = "input-small input_element";
+
+        inputText.addEventListener("keyup", function (e) {
+            if (e.keyCode == 13) {
+                return spider.drawMovieRows(e);
+            }
+        });
+
         inputDiv.appendChild(label);
         inputDiv.appendChild(inputText);
         inputDiv.appendChild(searchButton);

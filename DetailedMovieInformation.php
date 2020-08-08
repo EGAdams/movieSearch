@@ -43,7 +43,7 @@ class DetailedMovieinformation {
          */
         curl_setopt_array($curl, [
             CURLOPT_RETURNTRANSFER => 1,
-            CURLOPT_URL => "http://www.omdbapi.com/?i=" . $search_text . "&r=JSON&apikey=ae2b1c0b&plot=full",
+            CURLOPT_URL => "http://www.omdbapi.com/?i=" . $search_text . "&r=JSON&apikey=a6291ee5&plot=full",
             CURLOPT_USERAGENT => 'cURL Movie infromation Request'
         ]);
          
@@ -99,4 +99,3 @@ class DetailedMovieinformation {
     }
     
 }
-?>

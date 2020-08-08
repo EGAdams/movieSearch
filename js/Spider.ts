@@ -10,7 +10,6 @@ class Spider {
     searchText: string;
     searchId: string;
     movieRows: Array<MovieRow> = [];
-    phpUrl: string = "http://localhost/movieSearch/spider.php";
     private static instance: Spider;
 
     constructor() {
@@ -19,7 +18,7 @@ class Spider {
          * constructor
          */
         if (Spider.instance) {
-            console.log("*** ERROR: - use Spider.getInstance");
+            console.log("*** ERROR: - use Spider.getInstance ***");
         }
 
     }
@@ -42,7 +41,7 @@ class Spider {
         }
         this.sendAjax(this);
     }
-    
+
     private sendAjax(spider: Spider): void {
         let xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function () {
@@ -63,8 +62,8 @@ class Spider {
             }
         };
 
-        //console.log("sending command: http://www.omdbapi.com/?i=" + spider.searchId + "&r=JSON&apikey=ae2b1c0b&plot=full");
-        //xhttp.open("GET", "http://www.omdbapi.com/?i=" + spider.searchId + "&r=JSON&apikey=ae2b1c0b&plot=full", true);
+        //!console.log("sending command: http://www.omdbapi.com/?i=" + spider.searchId + "&r=JSON&apikey=ae2b1c0b&plot=full");
+        //!xhttp.open("GET", "http://www.omdbapi.com/?i=" + spider.searchId + "&r=JSON&apikey=ae2b1c0b&plot=full", true);
         xhttp.open("GET", "http://localhost/yborTest/src/getDetailedMovieInformation.php?search_id=" + spider.searchId);
         xhttp.send();
     }
