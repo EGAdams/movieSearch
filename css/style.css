@@ -1,0 +1,20 @@
+
+
+.rowClass {
+    border-style: solid;
+    border-width: thin;
+}
+
+.resultSet{
+    margin-left: 12px;
+    padding-left: 12px;
+    margin-top: 10px;
+}
+
+.origin {
+    margin: 25px;
+}
+
+.input_element {
+    margin: 5px;
+}

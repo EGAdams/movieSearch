@@ -1,0 +1,187 @@
+[21-Mar-2019 08:32:52 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' (using password: YES) in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[21-Mar-2019 08:32:52 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[21-Mar-2019 08:34:21 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' (using password: YES) in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[21-Mar-2019 08:34:21 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[21-Mar-2019 08:37:08 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' (using password: YES) in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[21-Mar-2019 08:37:08 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[21-Mar-2019 08:43:31 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' (using password: YES) in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[21-Mar-2019 08:43:31 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[18-Apr-2019 11:56:09 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[18-Apr-2019 11:56:09 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[18-Apr-2019 11:56:14 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[18-Apr-2019 11:56:14 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[18-Apr-2019 11:56:28 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[18-Apr-2019 11:56:28 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[18-Apr-2019 11:56:30 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[18-Apr-2019 11:56:30 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[18-Apr-2019 11:56:37 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[18-Apr-2019 11:56:37 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[18-Apr-2019 11:56:41 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[18-Apr-2019 11:56:41 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[18-Apr-2019 15:50:23 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[18-Apr-2019 15:50:23 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[18-Apr-2019 15:50:26 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[18-Apr-2019 15:50:26 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[13-May-2019 08:01:54 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[13-May-2019 08:01:54 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[13-May-2019 08:02:27 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[13-May-2019 08:02:27 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[28-May-2019 06:44:56 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[28-May-2019 06:44:56 America/Chicago] PHP Fatal error:  Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[26-Nov-2019 18:19:47 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Nov-2019 18:19:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[26-Nov-2019 18:19:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('kung fu')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('kung fu')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('kung fu')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[26-Nov-2019 18:19:52 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Nov-2019 18:19:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[26-Nov-2019 18:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('kung fu')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('kung fu')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('kung fu')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[26-Nov-2019 18:20:00 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Nov-2019 18:20:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[26-Nov-2019 18:20:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('terminator')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('terminator')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('terminator')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[26-Nov-2019 18:20:08 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Nov-2019 18:20:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[26-Nov-2019 18:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('X')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('X')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('X')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[26-Nov-2019 18:20:30 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Nov-2019 18:20:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[26-Nov-2019 18:20:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('kung fu')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('kung fu')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('kung fu')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[06-Jan-2020 14:08:40 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[06-Jan-2020 14:08:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('rambo')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('rambo')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('rambo')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[06-Jan-2020 14:08:42 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[06-Jan-2020 14:08:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('rambo')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('rambo')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('rambo')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[06-Jan-2020 14:08:56 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'%.%.%.%' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[06-Jan-2020 14:08:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('rambo')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('rambo')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('rambo')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[06-Jan-2020 14:35:18 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tinman72_wp'@'192.185.52.144' (using password: YES) in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[06-Jan-2020 14:35:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('rambo')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('rambo')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('rambo')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[06-Jan-2020 14:36:20 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tinman72_wp'@'192.185.52.144' (using password: YES) in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[06-Jan-2020 14:36:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('rambo')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('rambo')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('rambo')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[06-Jan-2020 14:38:45 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_wp'@'192.185.52.144' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/MovieRows.php on line 8
+[06-Jan-2020 14:38:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/MovieRows.php:96
+Stack trace:
+#0 /home1/tinman72/public_html/test/MovieRows.php(13): MovieRows->getSearchResults('rambo')
+#1 /home1/tinman72/public_html/test/getMovieRows.php(14): MovieRows->getMovieRows('rambo')
+#2 /home1/tinman72/public_html/test/getMovieRows.php(17): getMovieRows('rambo')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/MovieRows.php on line 96
+[06-Jan-2020 14:49:42 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 8
+[06-Jan-2020 14:49:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/DetailedMovieInformation.php:86
+Stack trace:
+#0 /home1/tinman72/public_html/test/DetailedMovieInformation.php(13): DetailedMovieinformation->getSearchResults('tt1206885')
+#1 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(14): DetailedMovieinformation->getDetailedMovieInformation('tt1206885')
+#2 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(17): getDetailedMovieInformation('tt1206885')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 86
+[06-Jan-2020 14:49:54 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 8
+[06-Jan-2020 14:49:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/DetailedMovieInformation.php:86
+Stack trace:
+#0 /home1/tinman72/public_html/test/DetailedMovieInformation.php(13): DetailedMovieinformation->getSearchResults('tt0301768')
+#1 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(14): DetailedMovieinformation->getDetailedMovieInformation('tt0301768')
+#2 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(17): getDetailedMovieInformation('tt0301768')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 86
+[08-Aug-2020 10:39:02 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 8
+[08-Aug-2020 10:39:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/DetailedMovieInformation.php:86
+Stack trace:
+#0 /home1/tinman72/public_html/test/DetailedMovieInformation.php(13): DetailedMovieinformation->getSearchResults('tt1206885')
+#1 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(14): DetailedMovieinformation->getDetailedMovieInformation('tt1206885')
+#2 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(17): getDetailedMovieInformation('tt1206885')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 86
+[08-Aug-2020 10:39:05 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 8
+[08-Aug-2020 10:39:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/DetailedMovieInformation.php:86
+Stack trace:
+#0 /home1/tinman72/public_html/test/DetailedMovieInformation.php(13): DetailedMovieinformation->getSearchResults('tt1206885')
+#1 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(14): DetailedMovieinformation->getDetailedMovieInformation('tt1206885')
+#2 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(17): getDetailedMovieInformation('tt1206885')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 86
+[08-Aug-2020 10:39:29 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 8
+[08-Aug-2020 10:39:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/DetailedMovieInformation.php:86
+Stack trace:
+#0 /home1/tinman72/public_html/test/DetailedMovieInformation.php(13): DetailedMovieinformation->getSearchResults('tt6450804')
+#1 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(14): DetailedMovieinformation->getDetailedMovieInformation('tt6450804')
+#2 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(17): getDetailedMovieInformation('tt6450804')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 86
+[08-Aug-2020 10:39:32 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 8
+[08-Aug-2020 10:39:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/DetailedMovieInformation.php:86
+Stack trace:
+#0 /home1/tinman72/public_html/test/DetailedMovieInformation.php(13): DetailedMovieinformation->getSearchResults('tt0364056')
+#1 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(14): DetailedMovieinformation->getDetailedMovieInformation('tt0364056')
+#2 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(17): getDetailedMovieInformation('tt0364056')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 86
+[08-Aug-2020 10:39:34 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 8
+[08-Aug-2020 10:39:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/DetailedMovieInformation.php:86
+Stack trace:
+#0 /home1/tinman72/public_html/test/DetailedMovieInformation.php(13): DetailedMovieinformation->getSearchResults('tt0244839')
+#1 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(14): DetailedMovieinformation->getDetailedMovieInformation('tt0244839')
+#2 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(17): getDetailedMovieInformation('tt0244839')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 86
+[08-Aug-2020 10:40:42 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tinman72_4a4e_cg'@'192.185.52.144' to database 'tinman72_demo_database' in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 8
+[08-Aug-2020 10:40:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home1/tinman72/public_html/test/DetailedMovieInformation.php:86
+Stack trace:
+#0 /home1/tinman72/public_html/test/DetailedMovieInformation.php(13): DetailedMovieinformation->getSearchResults('tt0438488')
+#1 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(14): DetailedMovieinformation->getDetailedMovieInformation('tt0438488')
+#2 /home1/tinman72/public_html/test/getDetailedMovieInformation.php(17): getDetailedMovieInformation('tt0438488')
+#3 {main}
+  thrown in /home1/tinman72/public_html/test/DetailedMovieInformation.php on line 86
