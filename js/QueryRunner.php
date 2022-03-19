@@ -9,14 +9,21 @@ class QueryRunner {
     
     public function __construct() {
         $this->log( "constructing QueryRunner object..." ); 
-        $this->connection = mysqli_connect("americansjewelry.com", "tinman72_4a4e_cg", "jan02@Th", "tinman72_demo_database"); }
+        $this->connection = mysqli_connect("americansjewelry.com", "tinman72_4a4e_cg", "jan02@Th", "tinman72_demo_database"); 
+        if( $this->connection ) {
+            $this->log( "successfull connection to the database. " );
+        } else {
+            $this->log( "*** ERROR: failed to connect to the database! ***" );
+        }
+    }
     
     public function runQuery( $query ) {
         $this->log( "running query: " . $query . "..." );
         $result = $this->connection->query( $query );
+        $this->log( "the result this evening is: " . $result );
         
         if ( $result->num_rows > 0 ) {
-            $this->log( "got at least one row.  returning result: " . $result . "... " );
+            $this->log( "got at least one row.  returning result: " . $result[ 0 ] . "... " );
             return mysqli_fetch_assoc( $result );
         } else {
             $this->log( "returning no data..." );
